@@ -16,5 +16,8 @@ venv.bak/
 .idea/
 
 # Information
-*.bat
+wake.bat
 *.ini
+
+# Artifacts
+*.exe
