@@ -25,3 +25,5 @@ if computer:
 
     if mac:
         send_magic_packet(mac)
+    else:
+        print('Could not find target computer {}'.format(computer))
