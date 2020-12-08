@@ -16,7 +16,8 @@ venv.bak/
 .idea/
 
 # Information
-wake.bat
+wake_cmd.bat
+sleep_cmd.bat
 *.ini
 
 # Artifacts
